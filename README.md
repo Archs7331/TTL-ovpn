@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi
+```
+-> I do DDoS protection
+-> I know bash , c# , python , and c
+-> currently learning nodejs
+```
 
 <!--
 **TTL-ovpn/TTL-ovpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
