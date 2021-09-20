@@ -1,5 +1,8 @@
 ### Socials & Info
 ```
+╔═╗┬─┐┌─┐┬ ┬┌─┐
+╠═╣├┬┘│  ├─┤└─┐
+╩ ╩┴└─└─┘┴ ┴└─┘
 Instagram -> @ttl.hax
 Discord -> Archs#1337
 https://linktr.ee/Archs
